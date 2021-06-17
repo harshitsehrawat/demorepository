@@ -1,0 +1,7 @@
+this is version 1 of project
+i wan thtis to go into commit 2  master
+changed by hay
+this is changed now
+yea boi
+
+this is from master
